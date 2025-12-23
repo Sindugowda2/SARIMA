@@ -1,6 +1,6 @@
-Streamlit
-Pandas
-Mathpoltlib
-Statsmodels
+streamlit
+pandas
+mathpoltlib
+statsmodels
 pyttsx3
 speechrecognition
