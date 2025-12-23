@@ -1,0 +1,6 @@
+Streamlit
+Pandas
+Mathpoltlib
+Statsmodels
+pyttsx3
+speechrecognition
